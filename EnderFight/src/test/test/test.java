@@ -1,5 +1,6 @@
 package test.test;
 
-public class test {
+public class test extends JavaPlugin implements Listener {
+
 
 }
